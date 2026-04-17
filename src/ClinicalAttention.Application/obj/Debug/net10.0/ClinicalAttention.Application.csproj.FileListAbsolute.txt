@@ -13,3 +13,4 @@ C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Applicatio
 C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\refint\ClinicalAttention.Application.dll
 C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ClinicalAttention.Application.pdb
 C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ref\ClinicalAttention.Application.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ClinicalAttention.Application.sourcelink.json

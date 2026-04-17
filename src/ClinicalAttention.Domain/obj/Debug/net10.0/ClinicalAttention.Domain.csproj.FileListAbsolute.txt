@@ -9,3 +9,4 @@ C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj
 C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\refint\ClinicalAttention.Domain.dll
 C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ClinicalAttention.Domain.pdb
 C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ref\ClinicalAttention.Domain.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ClinicalAttention.Domain.sourcelink.json

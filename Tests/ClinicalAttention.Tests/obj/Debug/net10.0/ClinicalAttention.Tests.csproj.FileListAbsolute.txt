@@ -106,3 +106,4 @@ C:\Users\jdbrito\source\repos\ClinicalAttention\Tests\ClinicalAttention.Tests\ob
 C:\Users\jdbrito\source\repos\ClinicalAttention\Tests\ClinicalAttention.Tests\obj\Debug\net10.0\ClinicalAttention.Tests.pdb
 C:\Users\jdbrito\source\repos\ClinicalAttention\Tests\ClinicalAttention.Tests\obj\Debug\net10.0\ClinicalAttention.Tests.genruntimeconfig.cache
 C:\Users\jdbrito\source\repos\ClinicalAttention\Tests\ClinicalAttention.Tests\obj\Debug\net10.0\ref\ClinicalAttention.Tests.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\Tests\ClinicalAttention.Tests\obj\Debug\net10.0\ClinicalAttention.Tests.sourcelink.json
