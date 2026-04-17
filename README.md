@@ -36,17 +36,18 @@ Diseñar e implementar un backend basado en .NET Core y arquitectura hexagonal, 
 
 ## 4. Arquitectura del sistema
 
-### Diagrama de clases
-![Diagrama de Clases](image/classes.png)
-
-### Componentes
-![Componentes](image/componentes.png)
+### Contexto
+![Contexto](image/contexto.png)
 
 ### Contenedores
 ![Contenedores](image/contenedores.png)
 
-### Contexto
-![Contexto](image/contexto.png)
+### Componentes
+![Componentes](image/componentes.png)
+
+### Diagrama de clases
+![Diagrama de Clases](image/clases.png)
+
 
 ### 4.1 Estilo arquitectónico
 
