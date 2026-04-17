@@ -1,0 +1,15 @@
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\bin\Debug\net10.0\ClinicalAttention.Application.deps.json
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\bin\Debug\net10.0\ClinicalAttention.Application.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\bin\Debug\net10.0\ClinicalAttention.Application.pdb
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\bin\Debug\net10.0\ClinicalAttention.Domain.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\bin\Debug\net10.0\ClinicalAttention.Domain.pdb
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ClinicalAttention.Application.csproj.AssemblyReference.cache
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ClinicalAttention.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ClinicalAttention.Application.AssemblyInfoInputs.cache
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ClinicalAttention.Application.AssemblyInfo.cs
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ClinicalAttention.Application.csproj.CoreCompileInputs.cache
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\Clinical.9FFE7DF3.Up2Date
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ClinicalAttention.Application.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\refint\ClinicalAttention.Application.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ClinicalAttention.Application.pdb
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Application\obj\Debug\net10.0\ref\ClinicalAttention.Application.dll

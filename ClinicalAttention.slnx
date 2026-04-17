@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ClinicalAttention.Application/ClinicalAttention.Application.csproj" />
+    <Project Path="src/ClinicalAttention.Domain/ClinicalAttention.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/ClinicalAttention.Tests/ClinicalAttention.Tests.csproj" />
+  </Folder>
+</Solution>

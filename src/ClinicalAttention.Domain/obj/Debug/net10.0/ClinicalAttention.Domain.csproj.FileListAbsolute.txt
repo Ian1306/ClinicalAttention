@@ -1,0 +1,11 @@
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\bin\Debug\net10.0\ClinicalAttention.Domain.deps.json
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\bin\Debug\net10.0\ClinicalAttention.Domain.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\bin\Debug\net10.0\ClinicalAttention.Domain.pdb
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ClinicalAttention.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ClinicalAttention.Domain.AssemblyInfoInputs.cache
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ClinicalAttention.Domain.AssemblyInfo.cs
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ClinicalAttention.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ClinicalAttention.Domain.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\refint\ClinicalAttention.Domain.dll
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ClinicalAttention.Domain.pdb
+C:\Users\jdbrito\source\repos\ClinicalAttention\src\ClinicalAttention.Domain\obj\Debug\net10.0\ref\ClinicalAttention.Domain.dll
